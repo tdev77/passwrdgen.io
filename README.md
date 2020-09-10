@@ -11,3 +11,4 @@ None
 ## Tools
 * Html
 * CSS
+* Javascript
