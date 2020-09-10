@@ -9,3 +9,4 @@ A password generator that gives a user the option to generate  a unique password
 None
 
 ## Tools
+* Html
